@@ -1,0 +1,3 @@
+Data structures are important for programming.
+Algorithms and data structures help solve problems efficiently.
+C++ provides many useful data structures and algorithms.
